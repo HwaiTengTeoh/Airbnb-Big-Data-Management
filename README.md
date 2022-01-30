@@ -11,5 +11,13 @@ The huge number of listings generate a lot of data (structured and unstructured)
 2. To utilize data access tools such as MongoDB and tools in Hadoop architecture for managing Airbnb data.
 3. To compare the effectiveness of MongoDB and different tools in Hadoop architecture for performing loading, query and running analysis on Airbnb data
 
+## Tool Used
+- Ubuntu 
+- Hadoop
+- PySpark
+- Apache Hive
+- Apache Pig
+- MongoDB Compass
+
 
 
