@@ -28,7 +28,7 @@ As the Airbnb data is usually arranged by location, a shell script is created to
 - Apache Pig
 - MongoDB Compass (Not saved in this repository)
 
-## Scripts by Tools
+## Scripts
 - The data collection process is automated by running the ***BatchRun_Initial.sh*** file
 - ***BatchRun_Tool.sh*** script (eg. BatchRun_Pig.sh) is the script that consolidate all codes for you to run in one go and record the time taken for each execution of code.
 - The scripts for querying and analyzing of Airbnb data are stored separately in individual folders
