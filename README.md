@@ -11,8 +11,8 @@ The huge number of listings generate a lot of data (structured and unstructured)
 2. To utilize data access tools such as MongoDB and tools in Hadoop architecture for managing Airbnb data.
 3. To compare the effectiveness of MongoDB and different tools in Hadoop architecture for performing loading, query and running analysis on Airbnb data
 
-## Results and Findings
-WIP
+## Data Sources
+(Inside Airbnb)[http://insideairbnb.com/get-the-data.html] is a website with a repository of data sourced from publicly available information such as listings, reviews, and calendar details from the original Airbnb site. The website provides datasets to Airbnb listings worldwide for about 108 locations. These data have been analyzed, cleansed, and aggregated where appropriate to facilitate the usage by the public in a compressed gz file. For this project, we demonstrated the data pipeline development using data from Singapore. However, a similar process can be conducted in acquiring data from other locations as the pipeline developed is flexible to be utilized for all locations. The data used in this project are Listings, Reviews, and Calendars. 
 
 
 ## Tools Used
