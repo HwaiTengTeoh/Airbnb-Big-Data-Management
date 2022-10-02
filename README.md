@@ -26,7 +26,7 @@ As the Airbnb data is usually arranged by location, a shell script is created to
 - PySpark
 - Apache Hive
 - Apache Pig
-- MongoDB Compass (Not saved in this repository)
+- MongoDB Compass (GUI is used, thus no scripting saved in this repository)
 
 ## Scripts
 - The data collection process is automated by running the ***BatchRun_Initial.sh*** file
