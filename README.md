@@ -30,4 +30,4 @@ As the Airbnb data is usually arranged by location, a shell script is created to
 
 ## Scripts
 - The data collection process is automated by running the ***BatchRun_Initial.sh*** file
-- ***BatchRun_<Tool>.sh*** script (eg. BatchRun_Pig.sh) is the script that consolidate all codes for you to run in one go and record the time taken for each execution of code.
+- ***BatchRun_Tool.sh*** script (eg. BatchRun_Pig.sh) is the script that consolidate all codes for you to run in one go and record the time taken for each execution of code.
