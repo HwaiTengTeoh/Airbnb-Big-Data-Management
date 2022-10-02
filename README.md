@@ -50,6 +50,9 @@ As the Airbnb data is usually arranged by location, a shell script is created to
 - Compute number of reviews comment by year
 - Compute average price by location (neighborhood_cleansed)
 
+## Execution Time by Tools
+![](<!Image/Figure2.PNG>)
+
 ## Conclusion
 - Airbnb is a thriving online business that generates a large amount of data at high speed and in the form of structured and unstructured manner. Hence, the bulky number of files and frequent updates could impose a problem for the public users interested in understanding Airbnb via the datasets in which commodity hardware machines cannot fulfill such computational requirements. Thus, the first aim to build a data pipeline in managing the Airbnb data has been achieved to ease the entire data loading, querying, and analysis process. Singapore was the chosen location for demonstration purposes. However, this pipeline was flexible to accommodate other locations as its entire process can be replicated.
 - Per comparison among the tools, PySpark performed the best compared to other tools due to its fastest processing time yet simple coding (i.e., lesser programming complexity). 
