@@ -31,3 +31,23 @@ As the Airbnb data is usually arranged by location, a shell script is created to
 ## Scripts
 - The data collection process is automated by running the ***BatchRun_Initial.sh*** file
 - ***BatchRun_Tool.sh*** script (eg. BatchRun_Pig.sh) is the script that consolidate all codes for you to run in one go and record the time taken for each execution of code.
+- The scripts for querying and analyzing of Airbnb data are stored separately in individual folders that encompass the followings: 
+
+### Querying 
+- Top 20 of listings in overall experience, with more than 50 reviews
+- Top 20 of listings in terms of Cleanliness, with more than 50 reviews
+- Top 20 of listings in terms of Accuracy (whether the web represent accurate photos and info), with more than 50 reviews
+- Top 20 of listings in terms of Check-in, with more than 50 reviews
+- Top 20 of listings in terms of Communication with host, with more than 50 reviews
+- Top 20 of listings in terms of location, with more than 50 reviews
+- Top 20 of listings in terms of value (worth or not), with more than 50 reviews
+
+### Analysis
+- Compute count of listings by room type
+- Compute count of listings by property type
+- Compute average price of listings by property type, arranged in descending order
+- Compute average price of listings by property type, arranged in ascending order
+- Compute number of reviews comment by year
+Compute average price by location (neighborhood_cleansed)
+![image](https://user-images.githubusercontent.com/73737180/193452265-89ba93b9-32b1-4ecf-b6ea-f0afd45a91ba.png)
+
