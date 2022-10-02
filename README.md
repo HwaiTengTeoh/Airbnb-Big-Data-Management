@@ -17,6 +17,8 @@ The huge number of listings generate a lot of data (structured and unstructured)
 ## Process Flows
 As the Airbnb data is usually arranged by location, a shell script is created to automate the downloading process of the data files according to the user’s location preference with Airbnb listings from the Insider Airbnb website. Users are allowed to input the location, location URL, and compile date of the data. The data files (i.e., Listings, Reviews, and Calendar) are saved in a local file system under a specified directory with the folder named as per the location’s name. In this scenario, the files were saved in a ‘SINGAPORE’ folder. The downloaded files were unzipped before loading to HDFS storage as they were initially downloaded in a compressed gz format. Subsequently, MongoDB and different Hadoop Tools such as PySpark, Apache Pig, and Apache Hive were utilized to access, query, and analyze the data. Figure 1 shows the process flow overview for the entire Airbnb data pipeline. The codes used for the entire process are available in a this repository.
 
+![](<!Image/Figure1.PNG>)
+
 
 
 ## Tools Used
