@@ -1,4 +1,4 @@
-# Airbnb Big Data Management
+# Airbnb Big Data Management with MongoDB and Hadoop Tools
 
 ## Introduction
 Airbnb became one-of-a-kind accommodation service that is used and recognized by the whole world. It allows the renting of houses or rooms owned by hosts to guests with the help of a technology tool. Over the recent years, Airbnb has been undergoing rapid development as an online platform community to provide access in accommodation and hospitalities globally. Due to the nature of its business, Airbnb has positioned itself as a data driven company; hence, invested heavily on its data infrastructure. 
