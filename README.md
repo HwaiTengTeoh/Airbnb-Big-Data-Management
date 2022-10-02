@@ -50,3 +50,9 @@ As the Airbnb data is usually arranged by location, a shell script is created to
 - Compute number of reviews comment by year
 - Compute average price by location (neighborhood_cleansed)
 
+## Results and Discussions
+
+
+
+
+## Conclusion
